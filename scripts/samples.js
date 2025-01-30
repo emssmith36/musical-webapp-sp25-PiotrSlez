@@ -26,7 +26,7 @@ async function loadSamplerData(file) {
       const text = await response.text(); 
       try {
         let obj = JSON.parse(text); // if JSON is valid, make an object
-        // loadSamples(obj); // load samples into the player
+         loadSamples(obj); // load samples into the player
         if(Array.isArray(obj) && obj.length == 0){
           // empty array
           console.log("samples.json is an empty array");
