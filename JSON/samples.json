@@ -1,26 +1,26 @@
 [
-  {
-    "name": "DoorsClosing",
-    "file": "samples/2025-01-27_Spoken_DoorsClosing.wav",
-    "bpm": 120,
-    "loop": "1m",
-    "grain": 0.04,
-    "overlap": 0.01
-  },
-  {
-    "name": "Doorbell",
-    "file": "samples/2025-01-27_Pitched_LittleCaesars.wav",
-    "bpm": 120,
-    "loop": "1m",
-    "grain": 0.04,
-    "overlap": 0.01
-  },
-  {
-    "name": "Noise",
-    "file": "samples/2025-01-27_Noisy_CTASounds.wav",
-    "bpm": 120,
-    "loop": "1m",
-    "grain": 0.04,
-    "overlap": 0.01
-  }
+ {
+  "name": "CtaSounds",
+  "file": "samples/2025-01-27_Noisy_CTASounds.wav",
+  "bpm": 120,
+  "loop": "1m",
+  "grain": 0.04,
+  "overlap": 0.01
+ },
+ {
+  "name": "Doorbell",
+  "file": "samples/2025-01-27_Pitched_LittleCaesars.wav",
+  "bpm": 120,
+  "loop": "1m",
+  "grain": 0.04,
+  "overlap": 0.01
+ },
+ {
+  "name": "Untitled",
+  "file": "samples/2025-01-27_Spoken_DoorsClosing.wav",
+  "bpm": 120,
+  "loop": "1m",
+  "grain": 0.04,
+  "overlap": 0.01
+ }
 ]
