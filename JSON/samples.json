@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "COMP122HawaiianMorning",
+    "file": "samples/COMP122HawaiianMorning.m4a",
+    "bpm": 120,
+    "loop": "2m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "COMP122SveaFriday",
+    "file": "samples/COMP122SveaFriday.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "COMP122MattRomeSong",
+    "file": "samples/COMP122MattRomeSong.m4a",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
